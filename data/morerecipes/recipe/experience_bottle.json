@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "ingredients": [
+      {
+        "item": "minecraft:diamond_helmet"
+      },
+      {
+        "item": "minecraft:netherite_ingot"
+      }
+    ],
+    "pattern": [
+      "XXX",
+      "X@X",
+      "XXX"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:lapis_lazuli"
+      },
+      "@": {
+        "item": "minecraft:glass_bottle"
+      }
+    },
+    "result": {
+      "id": "minecraft:experience_bottle",
+      "count": 1
+    }
+  }

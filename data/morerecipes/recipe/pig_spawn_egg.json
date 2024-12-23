@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "ingredients": [
+      {
+        "item": "minecraft:diamond_helmet"
+      },
+      {
+        "item": "minecraft:netherite_ingot"
+      }
+    ],
+    "pattern": [
+      "XXX",
+      "X@X",
+      "XXX"
+    ],
+    "key": {
+      "X": {
+        "item": "minecraft:cooked_porkchop"
+      },
+      "@": {
+        "item": "minecraft:egg"
+      }
+    },
+    "result": {
+      "id": "minecraft:pig_spawn_egg",
+      "count": 1
+    }
+  }
